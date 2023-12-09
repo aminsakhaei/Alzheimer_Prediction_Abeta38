@@ -1,7 +1,7 @@
 # Alzheimer_Prediction_Abeta38
 
 ## Overview
-This repository contains code and report for the analysis of the cerebral-spinal cord (CSF) protein 38 and its potential role in distinguishing healthy individuals from those with Alzheimer's disease. The study investigates the hypothesis that Abeta38, a protein associated with Abeta peptides, may have a discernible impact on differentiating between healthy and sick individuals.
+This repository contains code and report for the analysis of the cerebral-spinal cord (CSF) protein 38 and its potential role in distinguishing healthy individuals from those with Alzheimer's disease.  The study was conducted as a part of the "Statistical Analysis of Medical Data" course project instructed by Dr. Zahra Ghanbari in Fall 2022 at Amirkabir University of Technology. The analysis investigates the hypothesis that Abeta38, a protein associated with Abeta peptides, may have a discernible impact on differentiating between healthy and sick individuals.
 
 ## Background
 Alzheimer's disease is characterized by the presence of amyloid-beta plaques in the brain, typically ranging from 36 to 43 peptides in length. While extensive research has focused on longer isoforms of amyloid-beta, emerging evidence suggests that shorter isoforms, including Abeta38, may also play a role in the disease.
